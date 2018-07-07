@@ -1,1 +1,1 @@
-# awesome-machine-learning
+# Titanic disaster on kaggle
